@@ -27,4 +27,4 @@
 
 ###### [扩展-小球爬楼梯](https://wfya.github.io/me_demo2/index.html)
 
-###### [爱心](https://WBY.github.io/love.html)
+###### [爱心](https://wfya.github.io/love.html)
